@@ -124,3 +124,7 @@ This project is licensed under the MIT License - promoting open-source developme
 ---
 
 **Disclaimer**: This is experimental DeFi software. Please understand the risks involved and never invest more than you can afford to lose. Smart contracts are immutable and may contain bugs. Always do your own research before participating.
+
+Contract Details : 0xf77958532c01cc0B6A592bC083585122e09C13EE
+<img width="1919" height="1079" alt="Screenshot 2025-08-12 145000" src="https://github.com/user-attachments/assets/0d1fb304-353a-4aa0-b953-6534b504ee43" />
+
